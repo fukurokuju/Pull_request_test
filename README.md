@@ -3,4 +3,4 @@ Repo created so Ivan Ruzavin can practice
 
 Yes I've succeeded
 
-This is merge conflict
+We will never go home
