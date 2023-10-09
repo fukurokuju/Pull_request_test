@@ -2,4 +2,5 @@
 Repo created so Ivan Ruzavin can practice
 
 Yes I've succeeded
-HEROEEEEEES!!!
+
+This is merge conflict
